@@ -1,6 +1,6 @@
 # classification-analysis-on-iris-dataset
-The analysis project was done as a part of my internship at Verzeo during June 2021 and August 2021.
+The analysis project was done as a part of my Data Science Internship at Verzeo during June 2021 and August 2021.
 # Classification algorithms used
-Decision Tree Classifier
+- Decision Tree Classifier
 
-Support Vector Machine
+- Support Vector Machine
